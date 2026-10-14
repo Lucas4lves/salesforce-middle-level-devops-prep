@@ -1,0 +1,19 @@
+# Salesforce
+.sfdx/
+.localdevserver/
+*.dup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Environment / secrets
+.env
+*.pem
+*.key
